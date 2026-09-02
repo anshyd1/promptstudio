@@ -3,6 +3,7 @@
 <url><loc>https://promptstudio-lemon.vercel.app/</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/products</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/prompts</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/collections</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/tools/prompt-optimizer</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/tools/image-to-prompt</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/tools/video-prompt-builder</loc></url>
@@ -29,8 +30,6 @@
 <url><loc>https://promptstudio-lemon.vercel.app/prompts/bright-cafe</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/prompts/recipe-motion</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/prompts/skincare-ugc</loc></url>
-<url><loc>https://promptstudio-lemon.vercel.app/prompts/founder-reel</loc></url>
-<url><loc>https://promptstudio-lemon.vercel.app/prompts/product-testimonial</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/prompts/luxury-penthouse-campaign</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/prompts/boutique-hotel-launch</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/prompts/electric-grand-tourer</loc></url>
@@ -41,4 +40,10 @@
 <url><loc>https://promptstudio-lemon.vercel.app/prompts/collectible-lounge-chair</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/prompts/private-island-editorial</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/prompts/technology-keynote</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/collections/real-estate-marketing</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/collections/ecommerce-product-photography</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/collections/video-advertising</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/collections/marketing-agencies</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/collections/luxury-branding</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/collections/hospitality-travel</loc></url>
 </urlset>
