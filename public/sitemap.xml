@@ -4,6 +4,7 @@
 <url><loc>https://promptstudio-lemon.vercel.app/products</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/prompts</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/collections</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/saved</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/tools/prompt-optimizer</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/tools/image-to-prompt</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/tools/video-prompt-builder</loc></url>
@@ -63,4 +64,12 @@
 <url><loc>https://promptstudio-lemon.vercel.app/collections/marketing-agencies</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/collections/luxury-branding</loc></url>
 <url><loc>https://promptstudio-lemon.vercel.app/collections/hospitality-travel</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/journal/write-ai-image-prompts</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/journal/professional-headshot-prompts</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/journal/ecommerce-product-photo-prompts</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/journal/realistic-background-replacement</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/journal/ai-video-prompt-camera-guide</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/journal/youtube-thumbnail-prompt-guide</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/journal/preserve-product-packaging-text</loc></url>
+<url><loc>https://promptstudio-lemon.vercel.app/journal/virtual-try-on-prompt-guide</loc></url>
 </urlset>
