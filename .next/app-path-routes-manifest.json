@@ -1,0 +1,18 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/collections/[slug]/page": "/collections/[slug]",
+  "/collections/page": "/collections",
+  "/contact/page": "/contact",
+  "/disclaimer/page": "/disclaimer",
+  "/journal/[slug]/page": "/journal/[slug]",
+  "/journal/page": "/journal",
+  "/page": "/",
+  "/pricing/page": "/pricing",
+  "/privacy-policy/page": "/privacy-policy",
+  "/prompts/[id]/page": "/prompts/[id]",
+  "/prompts/page": "/prompts",
+  "/saved/page": "/saved",
+  "/terms/page": "/terms"
+}

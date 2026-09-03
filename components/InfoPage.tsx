@@ -1,0 +1,1 @@
+import PageHero from'./PageHero';export default function InfoPage({eyebrow,title,intro,sections}:{eyebrow:string,title:string,intro:string,sections:{h:string,p:string}[]}){return <><PageHero eyebrow={eyebrow} title={title} intro={intro}/><article className="article legal">{sections.map(s=><section key={s.h}><h2>{s.h}</h2><p>{s.p}</p></section>)}</article></>}

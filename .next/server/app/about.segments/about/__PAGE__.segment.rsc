@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/0u1ovgupfyftg.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/0u1ovgupfyftg.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/0u1ovgupfyftg.js"],"MetadataBoundary"]
+a:I[39756,["/_next/static/chunks/0u1ovgupfyftg.js"],"default"]
+b:I[37457,["/_next/static/chunks/0u1ovgupfyftg.js"],"default"]
+e:I[70119,["/_next/static/chunks/0u1ovgupfyftg.js"],"default"]
+f:I[22016,["/_next/static/chunks/0u1ovgupfyftg.js"],""]
+:HL["/_next/static/chunks/1286ax98efy3w.css","style"]
+:HL["/logo-wordmark-light.svg","image"]
+6:X
+d:X
+d:C
+0:{"buildId":"NN9CzL3ZWBiiJQMiqd1H1","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"pageHero","children":[["$","span",null,{"children":"ABOUT"}],["$","h1",null,{"children":"Better direction should be accessible."}],["$","p",null,{"children":"PromptStudio is a free editorially curated prompt library."}]]}],["$","article",null,{"className":"article legal","children":[["$","section","Useful prompts, not prompt noise",{"children":[["$","h2",null,{"children":"Useful prompts, not prompt noise"}],["$","p",null,{"children":"We publish structured systems based on real creative decisions: audience, objective, subject, composition, lighting, camera and constraints."}]]}],["$","section","Our standard",{"children":[["$","h2",null,{"children":"Our standard"}],["$","p",null,{"children":"Quality and differentiation come before page count. Templates are reviewed for clarity, practical value and responsible commercial use."}]]}]]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"PromptStudio AI — Free Professional Prompt Library"}],["$","meta","1",{"name":"description","content":"Free customizable prompts for professional image, video, e-commerce and commercial creative work."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","meta","3",{"property":"og:title","content":"PromptStudio AI — Free Professional Prompt Library"}],["$","meta","4",{"property":"og:description","content":"Free customizable prompts for professional image, video, e-commerce and commercial creative work."}],["$","meta","5",{"property":"og:site_name","content":"PromptStudio AI"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"PromptStudio AI — Free Professional Prompt Library"}],["$","meta","9",{"name":"twitter:description","content":"Free customizable prompts for professional image, video, e-commerce and commercial creative work."}]]}]}]}],null]}],"isPartial":"$@9","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"isPartial":"$@c","staleTime":"$6","varyParams":"$d"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1286ax98efy3w.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0u1ovgupfyftg.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$Le",null,{}],["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","footer",null,{"children":[["$","$Lf",null,{"className":"brand","href":"/","children":["$","img",null,{"src":"/logo-wordmark-light.svg","alt":"PromptStudio AI"}]}],["$","p",null,{"children":"Find the look. Copy the direction."}],["$","div",null,{"children":[["$","$Lf",null,{"href":"/prompts","children":"Prompts"}],["$","$Lf",null,{"href":"/collections","children":"Collections"}],"$L10","$L11","$L12","$L13","$L14"]}],"$L15"]}],"$L16"]}]}]]}],"isPartial":"$@17","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[91297,["/_next/static/chunks/0u1ovgupfyftg.js"],"default"]
+4:null
+10:["$","$Lf",null,{"href":"/journal","children":"Guides"}]
+11:["$","$Lf",null,{"href":"/about","children":"About"}]
+12:["$","$Lf",null,{"href":"/contact","children":"Contact"}]
+13:["$","$Lf",null,{"href":"/privacy-policy","children":"Privacy"}]
+14:["$","$Lf",null,{"href":"/disclaimer","children":"Disclosure"}]
+15:["$","small",null,{"children":"© 2026 PromptStudio AI. Built for creators."}]
+16:["$","$L1a",null,{}]
+6:300
+19:true
+6:C
+18:0
+9:"$undefined"
+c:"$undefined"
+17:"$undefined"
+5:"$undefined"

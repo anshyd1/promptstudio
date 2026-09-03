@@ -1,0 +1,3 @@
+'use client';
+import Link from 'next/link';import{Menu,X,ArrowRight}from'lucide-react';import{useState}from'react';
+export default function Header(){const[open,setOpen]=useState(false);return <header className="nav"><Link className="brand" href="/"><img src="/logo-wordmark.svg" alt="PromptStudio AI"/></Link><nav className={open?'open':''}><Link href="/prompts">Prompts</Link><Link href="/collections">Collections</Link><Link href="/saved">Saved</Link><Link href="/journal">Guides</Link><Link href="/pricing">Pricing</Link></nav><Link className="try" href="/prompts">Explore Free <ArrowRight size={17}/></Link><button className="mobile" onClick={()=>setOpen(!open)} aria-label="Menu">{open?<X/>:<Menu/>}</button></header>}

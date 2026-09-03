@@ -1,0 +1,1 @@
+import PageHero from'@/components/PageHero';import SavedClient from'@/components/SavedClient';export default function Saved(){return <><PageHero eyebrow="YOUR LOCAL COLLECTION" title="Saved prompts." intro="Prompts stay privately in this browser. No account or cloud storage required."/><SavedClient/></>}
