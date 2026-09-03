@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://promptstudio-lemon.vercel.app/sitemap.xml
+Sitemap: https://promptstudio-lemon.vercel.app/image-sitemap.xml
