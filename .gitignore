@@ -8,3 +8,6 @@ dist/
 
 *.tsbuildinfo
 hero-options/
+
+.next/
+out/
